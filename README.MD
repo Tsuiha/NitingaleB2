@@ -47,10 +47,11 @@
 `Plate` - `PCB` - `Case` の3パーツ構成で、プレートマウント方式です。  
 PCBはキースイッチを介してプレートに固定され、プレートはスタンドオフスペーサを介してケースに固定されます。
 
-![Nitingale B2 Overview](https://raw.githubusercontent.com/Tsuiha/NitingaleB2/main/pic/nitnigale_b2_1.JPG)
+![Nitingale B2 Overview](https://raw.githubusercontent.com/Tsuiha/NitingaleB2/main/pic/nitnigale_b2_1.jpg)
 
 
 ---
+
 
 
 
