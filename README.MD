@@ -1,4 +1,6 @@
-# Nitingale B2 .Introduction
+# Nitingale B2
+
+![Nitingale B2 Overview](https://github.com/Tsuiha/NitingaleB2/blob/main/pic/nitnigale_b2_2.JPG)
 
 「Nitingale B2」は、ゲーミングデバイスとして製作された左手デバイス／右手デバイスで、メカニカルスイッチを使用した自作キーボードです。
 
@@ -25,6 +27,8 @@
 - **チルト／テントアングル**  
   専用ケースはチルト角6度、テント角3度の傾斜が設けられています。
 
+![Nitingale B2 Overview](https://github.com/Tsuiha/NitingaleB2/blob/main/pic/nitnigale_b2_3.JPG)
+
 ---
 
 ## 仕様
@@ -43,33 +47,11 @@
 `Plate` - `PCB` - `Case` の3パーツ構成で、プレートマウント方式です。  
 PCBはキースイッチを介してプレートに固定され、プレートはスタンドオフスペーサを介してケースに固定されます。
 
----
-
-## 頒布情報
-
-Boothにて頒布を行っています。
-
-### 🔗 [Nitingale B2 左手／右手デバイス 自作キーボード - BOOTH](https://tsuihajp.booth.pm/items/7385204)
+![Nitingale B2 Overview](https://github.com/Tsuiha/NitingaleB2/blob/main/pic/nitnigale_b2_1.JPG)
 
 ---
 
-### セット内容
 
-- 実装基板・・・黒 1.2mm厚  
-- プレート・・・真鍮 ヘアライン仕上げ 1.5mm厚  
-- スペーサ・・・M2×8mm ×7pcs  
-- ネジ・・・M2×4mm ×14pcs  
-- ケース（標準）・・・JLC Polycarbonate CNC  
-- ゴム足・・・EVA＋シリコーン ×4pcs  
 
----
-
-### 必要部品（別途用意）
-
-- MXまたはKS-33B互換スイッチ ×30pcs  
-- キートップ ×30pcs  
-  - (1U ×26, 1.25U ×1, 1.5U ×1, 1.75U ×2)
-- USB Type-Cケーブル  
-- 他、内部フォームなど必要に応じて
 
 
