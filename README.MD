@@ -1,6 +1,6 @@
 # Nitingale B2
 
-![Nitingale B2 Overview](https://github.com/Tsuiha/NitingaleB2/blob/main/pic/nitnigale_b2_2.JPG)
+![Nitingale B2 Overview](https://raw.githubusercontent.com/Tsuiha/NitingaleB2/main/pic/nitnigale_b2_2.JPG)
 
 「Nitingale B2」は、ゲーミングデバイスとして製作された左手デバイス／右手デバイスで、メカニカルスイッチを使用した自作キーボードです。
 
@@ -27,7 +27,7 @@
 - **チルト／テントアングル**  
   専用ケースはチルト角6度、テント角3度の傾斜が設けられています。
 
-![Nitingale B2 Overview](https://github.com/Tsuiha/NitingaleB2/blob/main/pic/nitnigale_b2_3.JPG)
+![Nitingale B2 Overview](https://raw.githubusercontent.com/Tsuiha/NitingaleB2/main/pic/nitnigale_b2_3.JPG)
 
 ---
 
@@ -47,9 +47,11 @@
 `Plate` - `PCB` - `Case` の3パーツ構成で、プレートマウント方式です。  
 PCBはキースイッチを介してプレートに固定され、プレートはスタンドオフスペーサを介してケースに固定されます。
 
-![Nitingale B2 Overview](https://github.com/Tsuiha/NitingaleB2/blob/main/pic/nitnigale_b2_1.JPG)
+![Nitingale B2 Overview](https://raw.githubusercontent.com/Tsuiha/NitingaleB2/main/pic/nitnigale_b2_1.JPG)
+
 
 ---
+
 
 
 
