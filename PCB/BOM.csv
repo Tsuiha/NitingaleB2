@@ -1,0 +1,19 @@
+bom,		specification example of supplier
+screw,		M2x4mm slim head x14pcs WILCO FX-0000E
+spacer,		M2x8mm OD4mm x7pcs HIROSUGI ARB-2008
+plate,		t1.5mm laser cut Setsudandou
+case,		CNC/3DP	JLCPCB
+feet,		OD10x2.25mm x4pcs
+socket,		for MX x30pcs
+key switch,	type MX or GLP3 x30pcs
+J1,			typeC receptacle topmount 16+8pins GCT USB4105-GF-A
+U1,			STM STM32F072CBT6
+U2,			onsemi CM1293A-04SO
+U3,			3.3V LDO SOT23 TI TLV77133PDBVR
+side switch,sp3t TMHU27 Akitsukidenshi
+boot switch,C&K spst pts526
+"C1,C3",	1uF Capacitor 0603(1608m)
+C2,			4.7uF Capacitor 0603(1608m)
+C4-C7,		0.1uF Capacitor 0603(1608m)
+"R1,R2",	5.1kohm Resistor 0603(1608m)
+R3,			10kohm Resistor 0603(1608m)
