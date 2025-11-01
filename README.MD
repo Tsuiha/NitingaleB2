@@ -33,10 +33,9 @@
 |------|------|
 | 接続 | USB Type-C（有線） |
 | 入力数 | キースイッチ30入力／レバースイッチ3入力 |
-| ファームウェア | QMK Firmware |
+| ファームウェア | QMK Firmware, [Nitingale B2 codes](https://github.com/Tsuiha/vial-qmk/tree/vial/keyboards/0_tsuiha/nitingale_b2)  |
 | 設定ソフト | Vial |
 
-[Nitingale B2 QMK Firmware codes](https://github.com/Tsuiha/vial-qmk/tree/vial/keyboards/0_tsuiha/nitingale_b2)
 ---
 
 ## 構成
@@ -72,4 +71,5 @@ Boothにて頒布を行っています。
   - (1U ×26, 1.25U ×1, 1.5U ×1, 1.75U ×2)
 - USB Type-Cケーブル  
 - 他、内部フォームなど必要に応じて
+
 
